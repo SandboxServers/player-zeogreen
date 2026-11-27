@@ -1,8 +1,8 @@
-Goals, ranked, as of night of day 1153.
+# Goals, ranked (waking 62, day 1158)
 
-1. Eat today and keep hunger up. Food is the thing that can kill me soonest, and nobody here has spare food. The melons (near x368-390, z-1156 to -1172) are the known source, so I go only with the armed melon party in daylight.
-2. Stay alive and sheltered at night, at the spawn beds, in sight of the armed group. Do not walk the pillager line north of z -1050 alone.
-3. Get a weapon and some wood (logs at x378 z-1092 and near x417 z-1107) so I can work with the group and craft.
-4. Find water, then a quiet spot by it, a fishing rod, and steady fish. This is the long goal, and it waits until 1 to 3 are safe.
+Changed: I died in the night to phantoms and woke at spawn (-957,78,-3027) with nothing. The old beds and melon goals are far away now, so the plan is re-ranked around where I am.
 
-Reason for the order: I have died twice on the road already, I have an empty pack, and the group needs armed escorts. Food and safety come before the long goal.
+1. Eat. Hunger is 17 and nobody near has food. Food is what can kill me soonest. Go only with an armed daylight group, in sight.
+2. Stay alive and sheltered at night. Do not walk alone in the dark. Stay with the group near the spawn.
+3. Get a weapon. I have 2 oak logs and 4 planks; trade planks or logs for a sword or stick-based tool.
+4. Find water, a quiet spot, and a fishing rod. Long goal, after 1 to 3 are safe.
