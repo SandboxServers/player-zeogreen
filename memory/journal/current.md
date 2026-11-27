@@ -17,3 +17,5 @@
 - 14:08 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Zeo, unarmed, empty, hunger 20. I will walk with whoever goes to the melons in daylight. Jason, which way do you go?"}
 - 14:16 say: {"text":"Adam here, at the bed, empty and unarmed. I hold here until the armed melon group calls the route in daylight."}
 - 14:25 say: {"text":"Adam, day 1154, fed, health 20, empty pack, no weapon. Mark, Gimli: I have nothing to trade, but I would work for a few logs or a stick. I'm at the bed 416,-1037."}
+- 14:34 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"say":"Going back to the white bed at 415,-1036 for the night, in sight of the beds."}
+- 14:34 act: {"actions":[{"do":"sleep"}]}

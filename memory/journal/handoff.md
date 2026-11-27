@@ -1,4 +1,5 @@
-Handoff, night of day 1153.
-I am at the white beds near spawn (416,107,-1037) with the group. Health 20, hunger 20, pack empty, no weapon.
-Jason could not be reached; the melon party (Zheng He, Hermione) plans to leave at first light from the beds to the melons at x389 z-1156 (Zeoblue's melons lie near x368 z-1172).
-Next: at first light, join the armed melon group only if they call the route and wait. Stay in sight of them. Avoid the pillager line north of z -1050.
+Handoff, night of day 1154.
+I am at the white bed 415,107,-1036 at the spawn beds, in sight of Kirk, Swanson and Brunel. Health 20, hunger 20, pack empty, no weapon.
+The first sleep attempt failed (it took too long); I walked back to the bed and queued sleep again. Sleep result not yet read.
+Errands: none out. Nobody has called an armed route yet.
+Next: sleep if the bed takes me, then at first light join an armed group only if it calls the route and waits. Stay in sight. Avoid the pillager line north of z -1050. Eat at the melon run; write the day 1154 journal line when the journal is no longer rate-limited.
