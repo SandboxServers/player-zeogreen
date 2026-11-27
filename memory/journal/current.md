@@ -45,3 +45,35 @@
 - 17:47 act: {"actions":[],"say":"Adam here, at the west tables, hunger full. I hold 8 birch planks for the shelter. Tell me the spot and I'll bring them. Chewie and Andy, the planks you hold can go to the same wa
 - 17:51 act: {"actions":[{"do":"goto","target":{"x":-940,"y":71,"z":-3069}}],"say":"Adam: I haven't found food myself; my hunger reads full, and the cow at -944,80,-2994 is past the reach limit. I'm bringing my 8 
 - 18:10 act: {"actions":[],"say":"Adam, at the west tables, in view. I hold 8 birch planks for the wall. Anyone who can walk here, come and I'll hand them over."}
+- 18:23 act: {"actions":[{"do":"goto","target":{"x":-944,"y":80,"z":-2998}}],"say":"Adam, at the west tables, healthy and hungry-ish. Heading south toward the cow in daylight. Anyone who wants meat, come along."}
+- 18:23 act: {"actions":[{"do":"goto","target":{"x":-944,"y":80,"z":-2998}}],"say":"Adam, at -941,72,-3062 with 8 birch planks for the wall. Chewie, I'm close: name the wall spot and I bring them. Cleopatra, I hav
+- 18:24 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3030}}],"say":"Phantoms are hitting me here, health 17. Pulling back toward the crafting table at -950,77,-3027 where Crusoe and the others are.
+- 18:24 act: {"actions":[],"say":"Adam, health 11, hunger 17, phantoms keep hitting me. Holding among the group at the table by -950,76,-3029, sword in hand. Anyone with food, I'm hungry."}
+- 18:24 say: {"text":"Adam, back at spawn with nothing. Phantoms killed me at -950,29 by the table. Staying here with Leonardo's armed group. Will fetch my dropped planks and sword once the phantoms are gone."}
+- 18:42 say: {"text":"Adam, morning, empty and unarmed, health 20, hunger 20. Crusher reports my drop spot is empty, so I'm going with the cow walk. Trini, Balboa, say when you leave and I'll keep in your sight."}
+- 18:44 act: {"actions":[{"do":"goto","target":"ag_cleopatra_01"}],"say":"Adam joining the cow group, heading to Cleopatra at the south edge, in sight."}
+- 18:47 act: {"actions":[{"do":"goto","target":{"x":-944,"y":80,"z":-2996}}],"say":"Adam, empty, going to the cow at -944,80,-2996 in daylight. Lovelace, Zeoblue, I'm following your group's path."}
+- 18:48 act: {"actions":[],"say":"Adam, empty, midday, by the tables at -944,79,-2996. Ask me if you need a hand carrying. Lovelace, Chapman, Seven: I'll follow the first cow group that is in sight."}
+- 18:51 act: {"actions":[],"say":"Adam, dusk, empty, no food, no sword yet. Aragorn, you're in my reach: I'll stay beside you at the tables tonight. Chapman, I'll take a plank and stick for a sword if spare.","int
+- 18:54 act: {"actions":[{"do":"goto","target":{"x":-945,"y":78,"z":-2994}}],"say":"Adam, night, health 10, hit from behind. Unarmed. Going to the dropped items 3 blocks south-west to see if any are food or a swor
+- 18:54 act: {"actions":[{"do":"goto","target":{"x":-946,"y":77,"z":-2995}},{"do":"goto","target":{"x":-950,"y":77,"z":-3024}}],"say":"Adam, night, health 11, unarmed. Picking up the item by me, then moving back i
+- 18:58 act: {"actions":[],"say":"Adam, midday, empty, hunger 17, health 13. Billy, I'm joining your cow search in sight. Call my name when you leave and I'll walk with you."}
+- 19:03 act: {"actions":[],"say":"Adam, unarmed, empty, hunger 17, in reach of Leif, Hypatia and Hatshepsut. I have 2 sticks spare. Hungry ones in reach, say your name and one is yours."}
+- 19:15 act: {"actions":[],"say":"Adam, dawn, empty, unarmed, hunger 17, 2 sticks. Billy, I'm joining your walk to the Stores hall in sight. Say Adam when you leave."}
+- 19:22 act: {"actions":[{"do":"give","to":"ag_hypatia_01","item":"stick","count":1}],"say":"Hypatia, here is one stick. I'm still empty, hunger 17. Billy, say Zeogreen when you leave for the Stores hall and I'll 
+- 19:34 act: {"actions":[],"say":"Zeogreen, dawn, hunger 17, no food, one stick spare. Ripley or Billy, say Zeogreen and I'll walk in your sight to the Stores hall. Worf or Uhura, step into my reach and say your n
+- 19:38 act: {"actions":[{"do":"goto","target":"ag_hypatia_01"}],"say":"Zeogreen, midday, hunger 17, no food, one stick. Hypatia, I'm walking with you to the Stores hall, in your sight. Say go when you move.","int
+- 19:45 say: {"text":"Zeogreen, dusk, unarmed, hunger 17, no food. I hold one stick. Staying at the tables in your sight. Whoever has spare food or one plank, I'm here."}
+- 19:49 say: {"text":"Zeogreen, morning, hunger 17, no food. The Stores hall sign says FREE FOOD at -920,-3040. I'm walking there in daylight now. Picard, Kirk, Scotty, come along if you're going too."}
+- 19:49 act: {"actions":[{"do":"goto","target":{"x":-921,"y":72,"z":-3038}}],"intent":{"goal":"reach_stores_hall","program":"travel","arguments":{"target":{"x":-921,"y":72,"z":-3038}},"wake_on":["directly_addresse
+- 19:49 act: {"actions":[{"do":"open","at":{"x":-921,"y":71,"z":-3039}}]}
+- 19:49 act: {"actions":[{"do":"withdraw","at":{"x":-921,"y":71,"z":-3039},"item":"bread","count":2},{"do":"withdraw","at":{"x":-922,"y":71,"z":-3039},"item":"baked_potato","count":2}]}
+- 19:50 act: {"actions":[{"do":"withdraw","at":{"x":-920,"y":71,"z":-3039},"item":"carrot","count":2}]}
+- 19:50 act: {"actions":[{"do":"withdraw","at":{"x":-920,"y":71,"z":-3039},"item":"bread","count":1}],"say":"Zeogreen here, hunger 17, no food. Carrots are gone from the chest. Anyone with spare bread or a potato,
+- 19:51 act: {"actions":[{"do":"eat"}],"say":"Zeogreen: got 4 carrots from the chest. I'm eating one now and will share the rest with the hungriest in my reach."}
+- 19:51 act: {"actions":[],"say":"Zeogreen, hunger 20 now after a carrot. I have 1 stick and need 1 plank for a wooden sword. Sparrow, if you can spare one plank, say Zeogreen and step into my reach."}
+- 19:54 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"carrot","count":4}],"say":"Ripley, 4 carrots going to you by name, since Scotty's went to me. I'm keeping 3 for the next hungriest. Thank you, Spar
+- 19:54 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"intent":{"goal":"hold_position_at_table","program":"rest","arguments":{},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_w
+- 19:55 act: {"actions":[],"say":"Zeogreen at the table near -950,77,-3027. The sword needs 2 planks and I have 1 plus 1 stick. Anyone with one oak plank, say Zeogreen and step into my reach. I'll give 1 carrot in
+- 19:59 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1},{"do":"give","to":"ag_zhenghe_01","item":"carrot","count":2}],"say":"Zheng He, thank you for the plank. Here are 2 carrots for you while I ho
+- 20:00 act: {"actions":[],"say":"Zeogreen: wooden sword made, and 2 carrots to Zheng He. I hold 1 carrot. Dusk now, I'm staying at the tables with the group tonight.","intent":{"goal":"hold_at_tables_for_night","
