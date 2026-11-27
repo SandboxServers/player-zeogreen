@@ -12,3 +12,6 @@
 - 13:51 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"say":"Night is falling. I am heading to the white bed with the group."}
 - 13:51 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}]}
 - 13:51 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}}]}
+- 13:59 act: {"actions":[],"say":"Zeo here, dawn. I am unarmed and empty-handed, and I have no food. I will go north with the group only if someone with a weapon walks with me. Who is going?"}
+- 14:03 act: {"actions":[],"intent":{"goal":"follow_kira_for_logs","program":"follow","arguments":{"target":"ag_kira_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_w
+- 14:08 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Zeo, unarmed, empty, hunger 20. I will walk with whoever goes to the melons in daylight. Jason, which way do you go?"}
