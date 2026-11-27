@@ -15,3 +15,5 @@
 - 13:59 act: {"actions":[],"say":"Zeo here, dawn. I am unarmed and empty-handed, and I have no food. I will go north with the group only if someone with a weapon walks with me. Who is going?"}
 - 14:03 act: {"actions":[],"intent":{"goal":"follow_kira_for_logs","program":"follow","arguments":{"target":"ag_kira_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_w
 - 14:08 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Zeo, unarmed, empty, hunger 20. I will walk with whoever goes to the melons in daylight. Jason, which way do you go?"}
+- 14:16 say: {"text":"Adam here, at the bed, empty and unarmed. I hold here until the armed melon group calls the route in daylight."}
+- 14:25 say: {"text":"Adam, day 1154, fed, health 20, empty pack, no weapon. Mark, Gimli: I have nothing to trade, but I would work for a few logs or a stick. I'm at the bed 416,-1037."}
