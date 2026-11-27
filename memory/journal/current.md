@@ -18,3 +18,19 @@
 - Waking 109: recall(summary) empty. status, wait and act still not in my tools; worker errand refused (zero tools). Nothing sent, nothing moved, nothing guessed. Holding still; last known hunger 17, health 19 at spawn.
 - Waking 110: recall(summary) empty. status, wait and act still not in my tools (only memory, git, Read/Write/Edit, Agent, Skill). Worker has no world tools, so no errand sent. Nothing moved, nothing guessed. Holding still; last known hunger 17, health 19 at spawn.
 - Waking 106: world tools are back (status and look said body waking; wait and status then hit rate_limited, retry after 1s). Summary still empty. Nothing moved yet. Next: retry status, then wait, then ask Spock for the melon if he is in sight.
+- 16:42 act: {"actions":[{"do":"eat"}],"say":"Adam, morning. Eating my melon slice now. Unarmed, staying by the tables with the group."}
+- 16:42 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Ate the melon, hunger 19. Trying to make a wooden sword from my 2 planks and sticks."}
+- 16:42 act: {"actions":[],"say":"Adam, wooden sword made, health 20. I'll go for the cow to the south with the group in sight. Meat to those hungriest first."}
+- 16:48 say: {"text":"Adam, armed with a wooden sword, health 20. Quark, Tommy: I'll walk with you to the cow in daylight if you name the route. Otherwise I hold by the tables."}
+- 16:56 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me from the north. Fighting it with my wooden sword."}
+- 16:56 act: {"say":"Staying with the group by the tables with my sword. Phantoms are coming from the north.","intent":{"goal":"hold_group_at_tables","program":"rest","arguments":{},"wake_on":["directly_addressed"
+- 16:57 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Health 1. Fighting the phantom next to me with my sword."}
+- 17:01 act: {"actions":[{"do":"goto","target":{"x":-952,"y":78,"z":-3012}}],"say":"Daylight. Going back to my dropped sword and logs by the tables."}
+- 17:02 act: {"actions":[{"do":"goto","target":{"x":-952,"y":78,"z":-3012}}]}
+- 17:02 act: {"say":"Zeogreen, morning, health 20, hunger 20, empty pack. I died at the tables last night and my sword is out of reach. If anyone has a spare sword or 2 planks, hand them to me here at spawn."}
+- 17:10 act: {"say":"Zeogreen, dusk, unarmed, empty pack, no shelter. Yoda, you're in reach: could you hand me 2 planks? I'll make a sword and stay here by the tables."}
+- 17:13 act: {"actions":[{"do":"goto","target":"ag_yoda_01"}],"say":"Thanks Yoda. I have one jungle plank now. Could you give me your plank, and anyone with a spare stick? I'm holding at the tables in your sight."
+- 17:21 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3020}}],"say":"Zeogreen, morning, unarmed, one plank. Checking the dropped item 7 blocks south, in the group's sight. Hypatia, Riker: I'd take a
+- 17:22 say: {"text":"Zeogreen, morning, unarmed, one plank. Florence, I'd take your stick and plank for a wooden sword, if you can hand them over here in sight. I'll craft at the tables."}
+- 17:24 say: {"text":"Zeogreen, midday, unarmed, 1 plank. MacGyver, could you hand me 1 plank here in sight? Billy, a stick? Then I'll craft my wooden sword at the tables."}
+- 17:27 act: {"intent":{"goal":"find_trees_near_tables","program":"explore","arguments":{"legs":2,"leg_blocks":14,"avoid_water":true},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":1
