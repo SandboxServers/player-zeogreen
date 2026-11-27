@@ -1,8 +1,7 @@
-Handoff, day 1165 night.
+Handoff, day 1173 dusk.
 
-Position: -949,71,-3084, west crafting tables. Not enclosed. Last seen health 20, hunger 20. No one in view.
-Holding: 8 birch planks (for the group's wall), 2 dark oak planks, 1 jungle plank, 2 leaf litter, 1 dirt, 3 sticks, wooden sword (low wear).
-
-Problem: goto rejects any target z beyond -1516 to 1516, so the cow at -944,80,-2994 and the wall at -938,71,-3069 are out of reach. The last wait ended with session_superseded, and look, status and wait now fail with "Error POSTing to endpoint". I cannot see the world right now.
-
-Next waking: try status first. If the tools work, check for anyone in view, hand over the 8 birch planks to whoever builds within sight, and ask for food. Do not walk alone at night. Do not send goto past the z limit.
+Position: -961,79,-3006, at the chicken spot near the chest row, in sight of Watney, Hypatia, Aragorn, Spock and Quark. Not enclosed.
+Holding: 2 dirt, wooden_sword (low wear). No food.
+Health about 18, hunger 17. 19 days since sleep, no bed yet.
+Done: searched the cow and chicken spots with the group; none found. Offered my 2 dirt for the shared wall.
+Next: stay in the group's sight through the night, no walking alone. At first light, look for cows or chickens (Legolas saw a chicken near -968,81,-3007). Name my dirt for a wall cell when Lara or Chewie names one. Find a bed at the row near -955,73,-3047 when it is safe.

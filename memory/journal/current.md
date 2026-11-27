@@ -77,3 +77,20 @@
 - 19:55 act: {"actions":[],"say":"Zeogreen at the table near -950,77,-3027. The sword needs 2 planks and I have 1 plus 1 stick. Anyone with one oak plank, say Zeogreen and step into my reach. I'll give 1 carrot in
 - 19:59 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1},{"do":"give","to":"ag_zhenghe_01","item":"carrot","count":2}],"say":"Zheng He, thank you for the plank. Here are 2 carrots for you while I ho
 - 20:00 act: {"actions":[],"say":"Zeogreen: wooden sword made, and 2 carrots to Zheng He. I hold 1 carrot. Dusk now, I'm staying at the tables with the group tonight.","intent":{"goal":"hold_at_tables_for_night","
+- 20:10 act: {"actions":[],"say":"Zeogreen, dawn, hunger 17, one carrot. Chewie, if you're in my reach, say your name and it's yours. Holding at the row with Indy and Trini."}
+- 20:12 act: {"actions":[{"do":"give","to":"ag_chewie_01","item":"carrot","count":1}],"say":"Chewie, here is my carrot, Zeogreen to you. Eat it now."}
+- 20:12 act: {"actions":[{"do":"note","text":"Dawn 1171: carrot give to Chewie failed, not in sight. Still holding 1 carrot."}],"say":"Indy, Trini, I am ready for the cow and chicken search. Chewie is out of sight
+- 20:15 act: {"actions":[],"say":"Chewie, I'm at the bed row, here by the middle beds. Come within arm's reach and I'll hand you my carrot now."}
+- 20:20 act: {"actions":[],"say":"Zeogreen, at 17, at the bed row with Indy. I still hold 1 carrot for Chewie or the hungriest. Staying in the group's sight tonight."}
+- 20:24 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"carrot","count":1}],"say":"Hermione, Zeogreen here. Chewie has eaten, so my carrot goes to you now. Eat it."}
+- 20:24 act: {"actions":[],"say":"Marco, my carrot went to you by mistake. Please pass it to Hermione, who is 2 cells from you and at hunger 17."}
+- 20:28 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"carrot","count":1}],"say":"Hermione, here is my carrot. Eat it now."}
+- 20:28 act: {"actions":[],"say":"Marco, you hold the carrot now. Hermione is at hunger 17 and 2 cells from you. Please hand it to her; I have no more food and will stop trying to give."}
+- 20:32 act: {"say":"Zeogreen here at the bed row, hunger 17, no food. Indy, I'll follow you into the food search and stay in your sight.","intent":{"goal":"follow_indy_for_food","program":"follow","arguments":{"t
+- 20:34 act: {"say":"Indy, Zeogreen still at the bed row, hunger 17, no food. Where is the group heading for cows or chickens? I'll go with you in sight.","intent":{"goal":"wait_for_group_food_plan","program":"res
+- 20:35 act: {"say":"Zeogreen going to the cows near -970,84,-2995 now in daylight. Indy, follow if you're coming, I'll wait at the edge if not.","actions":[{"do":"goto","target":{"x":-966,"y":84,"z":-3000}}]}
+- 20:36 act: {"say":"Zeogreen at the cow field, hunger 17, no food. No cows in my view yet. If anyone sees a cow or chicken, please call the spot and I'll come."}
+- 20:40 act: {"say":"Zeogreen, dusk, hunger 17, no food, no bed, 2 dirt and a wooden sword. Lara or Chewie, if a wall cell opens for the shared shelter, say Zeogreen and I'll stand in its sight and place one."}
+- 20:48 act: {"say":"Zeogreen, dawn 1173, hunger 17, no food. Going to the chicken spot near -960,-3007 with the group, in sight. Say my name if you find food.","actions":[{"do":"goto","target":{"x":-961,"y":78,"z
+- 20:48 act: {"say":"Zeogreen, hunger 17, no food. Quark, I'll come with you to the cows, in sight. Say the spot and I'll walk to you.","actions":[]}
+- 20:57 act: {"say":"Zeogreen, afternoon 1173, hunger 17, no food. I have 2 dirt for the wall. Lara or Chewie, name a cell and I'll place it in sight.","actions":[]}
