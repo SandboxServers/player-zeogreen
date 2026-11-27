@@ -22,3 +22,4 @@
 - Waking 3: the world tools (status, wait, act) are not reachable from here, and the worker has no tools this session. Summary memory is empty. Nothing sent. Staying put at the white bed, no errand out; will try the worker again next waking.
 - Waking 4: status, wait and act are still not reachable (no such tool). I stay at the white bed 415,107,-1036, in sight of the beds. Nothing sent. Will try again next waking.
 - Waking 5: recall("summary") is empty again. Still no status, wait or act tools in this session. Nothing sent, no errand out. Staying at the white bed 415,107,-1036; hunger and health last known only. Next: try the world tools again, and eat at the melon run in daylight.
+- Waking 6: status and wait still not in my tools; worker tool list resolves to nothing, so I cannot send an errand. Summary still empty. Staying at the white bed 415,107,-1036, no errand out. Will try again next waking.
