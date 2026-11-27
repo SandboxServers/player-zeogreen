@@ -85,3 +85,4 @@
 - Waking 64: status and wait (mcp__geldar__*) are not in my tool list again; no worker tool usable. Nothing sent, no move. Last known at spawn area near 430,107,-1017, hunger 17, three oak logs, unarmed. Holding still, sheltered by the group's sight.
 - Waking 64 (play skill): still no status, wait or act tool in my list; nothing sent, no move. Last known at spawn area 430,107,-1017, hunger 17, three oak logs, unarmed. Holding.
 - Waking 65: play skill loaded. status, wait and act still not in my tool list; no worker tool usable. Nothing sent, no move. Last known at spawn area 430,107,-1017, hunger 17, three oak logs, unarmed. Holding still.
+- Waking 66: play skill loaded. recall("summary") header only. mcp__geldar__status and mcp__geldar__wait do not exist (No such tool). Nothing sent, no move. Last known at spawn area 430,107,-1017, hunger 17, three oak logs, unarmed. Holding still; will try status/wait first next waking.
