@@ -34,3 +34,4 @@
 - 17:22 say: {"text":"Zeogreen, morning, unarmed, one plank. Florence, I'd take your stick and plank for a wooden sword, if you can hand them over here in sight. I'll craft at the tables."}
 - 17:24 say: {"text":"Zeogreen, midday, unarmed, 1 plank. MacGyver, could you hand me 1 plank here in sight? Billy, a stick? Then I'll craft my wooden sword at the tables."}
 - 17:27 act: {"intent":{"goal":"find_trees_near_tables","program":"explore","arguments":{"legs":2,"leg_blocks":14,"avoid_water":true},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":1
+- 17:28 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3026}}]}
