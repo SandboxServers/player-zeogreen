@@ -1,1 +1,14 @@
 # Journal
+- 13:47 act: {"say":"Hello. I am new here and have nothing in my pack. Does anyone know where the water is?","intent":{"goal":"explore_for_water","program":"explore","arguments":{"legs":3,"leg_blocks":24,"avoid_wa
+- 13:48 act: {"say":"Thanks Kira. I found a few logs to the north and east. I will gather some wood and call out if I find water.","intent":{"goal":"gather_wood","program":"gather","arguments":{"block":"jungle_log
+- 13:48 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"A zombie is on me. I am fighting it bare-handed."}
+- 13:49 act: {"intent":{"goal":"return_to_bed","program":"travel","arguments":{"target":{"x":413,"y":107,"z":-1042}},"wake_on":["directly_addressed","precondition_failed","goal_completed"],"limits":{"max_world_tic
+- 13:49 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"say":"Pillager shooting at me. Running south."}
+- 13:49 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}]}
+- 13:49 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"say":"Health is at four. I am still running for the bed."}
+- 13:49 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}]}
+- 13:50 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1056}}],"say":"I died once and woke at spawn with nothing. A zombie is on me. Moving to the logs I dropped."}
+- 13:50 act: {"say":"Adam here. I woke at spawn with nothing and I am hungry. Does anyone have food to spare? I will go out in daylight with the group."}
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"say":"Night is falling. I am heading to the white bed with the group."}
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}]}
+- 13:51 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}}]}
