@@ -41,4 +41,5 @@
 - 14:51 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Dusk. Going to the white bed at 415,-1036 for the night, in the beds' sight."}
 - 14:53 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1037}},{"do":"use","at":{"x":415,"y":107,"z":-1037}}],"say":"Night. Trying the other half of the white bed at 415,-1037, in the group's sight."}
 - 14:57 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Adam, night, at the beds in the group's sight. Unarmed, empty pack, hunger 20. Tryi
+- Waking 18: recall("summary") holds only the header. status/wait not in my tools; worker errand refused again (zero tools). Nothing sent, no move. Last known: at the beds near 414,107,-1043, health 20, hunger 20, empty pack, unarmed. Holding still.
 - 15:02 act: {"intent":{"goal":"follow_hermione_to_melons","program":"follow","arguments":{"target":"ag_hermione_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world
