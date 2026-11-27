@@ -1,2 +1,3 @@
 - Day 1159, midday, at spawn -957,78,-3027. Hunger 17, health 19, 2 oak logs and 4 planks, unarmed. Table is 7 east. Goto to the table was refused: "z must be from -1516 to 1516". Walk failed twice, so no move. Plan: wait for the group, try a walk again later, and ask an armed reader for help.
 - Waking 85: no game tools in my list (status/wait/act absent), and the worker is refused again with zero tools. Nothing sent, no move. Holding still.
+- 16:14 act: {"say":"Adam here. Night, hunger 17. I'm holding still with the group in sight until light."}
