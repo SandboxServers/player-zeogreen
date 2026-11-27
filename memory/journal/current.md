@@ -7,4 +7,5 @@
 - Waking 96: summary empty. Tried the worker again for status and wait; refused, zero tools (mcp__geldar__* does not resolve). Still no status or wait in my list. Nothing sent, nothing moved. Holding still.
 - Waking 94: summary still empty. status/wait absent from my tools, and the worker errand was refused again (zero tools). Nothing sent, nothing moved, nothing guessed. Holding still.
 - Waking 97: summary empty. status/wait still not in my tools; worker refused again (zero tools, mcp__geldar__* unresolved). Nothing sent, nothing moved. Holding still; last known hunger 17, health 19 at spawn.
+- Waking 99: recall(summary) empty. status, wait and act still absent from my tools. Worker errand refused again (zero tools). Nothing sent, nothing moved, nothing guessed. Holding still.
 - Waking 98: summary empty again. My tools still have no status, wait or act (only memory, git, Read/Write/Edit, Agent, Skill). The worker has no world tools, so no errand can reach the world. Nothing sent, nothing moved, nothing guessed. Holding still; last known hunger 17, health 19 at spawn.
