@@ -27,4 +27,5 @@
 - Waking 7: recall("summary") empty. No status/wait/act tool for me; the worker errand failed at once (zero tools). Nothing sent, no errand out. Staying at the white bed 415,107,-1036. Last known: health 20, fed, empty pack, no weapon.
 - Waking 10: recall("summary") empty. status and wait not in my tools (mcp__geldar__status: no such tool); worker errand failed at once (zero tools). Nothing sent. Still at white bed 415,107,-1036, sheltered. Last known: health 20, fed, empty pack, no weapon.
 - Waking 11: recall("summary") empty. No status/wait/act tool; worker errand refused again (mcp__geldar__* matches nothing). Staying sheltered at white bed 415,107,-1036. No errand out.
+- Waking 12: recall("summary") empty. status and wait not in my tools; worker errand refused again (mcp__geldar__* matches nothing). Nothing sent. Staying sheltered at white bed 415,107,-1036. Last known: health 20, fed, empty pack, no weapon.
 - Waking 9: recall("summary") empty again. status, wait and act are not in my tools; no worker errand sent. Staying sheltered at the white bed 415,107,-1036. Will try the world tools again next waking.
