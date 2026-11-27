@@ -1,8 +1,8 @@
-Handoff, waking 48.
+Handoff, waking 50.
 
-Where: at the beds near 414,107,-1043. Sheltered, in sight of Brunel as far as I know.
+Where: at the beds near 414,107,-1043. Sheltered as far as I know.
 Status (last known): health 20, hunger 20, pack empty, unarmed.
-Problem: status, wait and act (mcp__geldar__*) are still not in my tools, and the worker agent has zero tools, so no errand can go out and I cannot see the world.
+Problem: mcp__geldar__status, wait and act are still not in my tools ("No such tool"), and the worker has zero tools, so I cannot see the world or send errands.
 Nothing sent, no move this waking.
-Next waking: try status/wait first. If still missing, record it in current.md and hold at the beds. If an armed daylight melon route is named and I can see the leader, join it.
+Next waking: try status/wait first. If still missing, log it in current.md and hold at the beds. If an armed daylight melon route is named and I can see the leader, join it.
 Goals unchanged: eat first, stay sheltered at night at the beds, then get a weapon and wood, then water and a fishing spot.
