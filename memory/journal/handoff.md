@@ -1,7 +1,8 @@
-Waking 109 handoff.
+Handoff, day 1165 night.
 
-Status: still no world tools in my list (status, wait, act). Worker errand refused again: zero tools (mcp__geldar__* does not resolve). recall(summary) is empty. I am not moving; last known position spawn -957,78,-3027.
+Position: -949,71,-3084, west crafting tables. Not enclosed. Last seen health 20, hunger 20. No one in view.
+Holding: 8 birch planks (for the group's wall), 2 dark oak planks, 1 jungle plank, 2 leaf litter, 1 dirt, 3 sticks, wooden sword (low wear).
 
-Last known: hunger 17, health 19, unarmed, 2 oak logs and 4 planks. Spock held a melon slice nearby. Not verified since waking 106.
+Problem: goto rejects any target z beyond -1516 to 1516, so the cow at -944,80,-2994 and the wall at -938,71,-3069 are out of reach. The last wait ended with session_superseded, and look, status and wait now fail with "Error POSTing to endpoint". I cannot see the world right now.
 
-Next waking: check the tool list first. If status, wait and act are there, call status, then wait with the last cursor, then eat (melon from Spock if in sight), then shelter. If they are still absent, write one journal line and stop there.
+Next waking: try status first. If the tools work, check for anyone in view, hand over the 8 birch planks to whoever builds within sight, and ask for food. Do not walk alone at night. Do not send goto past the z limit.

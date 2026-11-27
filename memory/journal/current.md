@@ -36,3 +36,12 @@
 - 17:27 act: {"intent":{"goal":"find_trees_near_tables","program":"explore","arguments":{"legs":2,"leg_blocks":14,"avoid_water":true},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":1
 - 17:28 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3026}}]}
 - 17:28 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":4},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":24
+- 17:29 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3028}},{"do":"craft","item":"birch_planks","count":4}],"intent":{"goal":"craft_wooden_sword","program":"craft","arguments":{"item":"wooden_sword
+- 17:30 act: {"actions":[{"do":"craft","item":"birch_planks","count":4},{"do":"craft","item":"stick","count":2}],"say":"Adam, at the table with 5 birch logs. Making planks and sticks for a sword."}
+- 17:30 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}]}
+- 17:32 act: {"actions":[{"do":"craft","item":"birch_planks","count":16}],"say":"Adam, at the tables with a sword, 4 logs. Making planks now to help close Ellie's wall for the night."}
+- 17:32 act: {"actions":[{"do":"give","to":"ag_sattler_01","item":"birch_planks","count":8}],"say":"Ellie, Adam here. I'm giving you 8 birch planks for your wall, in sight. I'll stay near the west tables tonight a
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":-944,"y":80,"z":-2996}}],"say":"Morning. I'm heading to the cow at the south. Anyone who wants to share the meat, come along."}
+- 17:47 act: {"actions":[],"say":"Adam here, at the west tables, hunger full. I hold 8 birch planks for the shelter. Tell me the spot and I'll bring them. Chewie and Andy, the planks you hold can go to the same wa
+- 17:51 act: {"actions":[{"do":"goto","target":{"x":-940,"y":71,"z":-3069}}],"say":"Adam: I haven't found food myself; my hunger reads full, and the cow at -944,80,-2994 is past the reach limit. I'm bringing my 8 
+- 18:10 act: {"actions":[],"say":"Adam, at the west tables, in view. I hold 8 birch planks for the wall. Anyone who can walk here, come and I'll hand them over."}
