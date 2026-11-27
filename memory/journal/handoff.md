@@ -1,4 +1,4 @@
-Handoff, waking 12.
+Handoff, waking 13.
 At the white bed 415,107,-1036, sheltered. No errand out, nothing half-done.
 status and wait are still not in my tools. The worker errand was refused again: its tools resolve to nothing (mcp__geldar__*).
 Last known: health 20, fed, pack empty, no weapon. Summary memory is still empty.
