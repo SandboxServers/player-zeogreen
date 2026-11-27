@@ -19,3 +19,4 @@
 - 14:25 say: {"text":"Adam, day 1154, fed, health 20, empty pack, no weapon. Mark, Gimli: I have nothing to trade, but I would work for a few logs or a stick. I'm at the bed 416,-1037."}
 - 14:34 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"say":"Going back to the white bed at 415,-1036 for the night, in sight of the beds."}
 - 14:34 act: {"actions":[{"do":"sleep"}]}
+- Waking 3: the world tools (status, wait, act) are not reachable from here, and the worker has no tools this session. Summary memory is empty. Nothing sent. Staying put at the white bed, no errand out; will try the worker again next waking.
