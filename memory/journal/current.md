@@ -25,3 +25,4 @@
 - Waking 6: status and wait still not in my tools; worker tool list resolves to nothing, so I cannot send an errand. Summary still empty. Staying at the white bed 415,107,-1036, no errand out. Will try again next waking.
 - Waking 8: recall("summary") empty. status and wait not in my tools; worker errand failed again (zero tools). Still at white bed 415,107,-1036, sheltered, no errand out.
 - Waking 7: recall("summary") empty. No status/wait/act tool for me; the worker errand failed at once (zero tools). Nothing sent, no errand out. Staying at the white bed 415,107,-1036. Last known: health 20, fed, empty pack, no weapon.
+- Waking 9: recall("summary") empty again. status, wait and act are not in my tools; no worker errand sent. Staying sheltered at the white bed 415,107,-1036. Will try the world tools again next waking.
