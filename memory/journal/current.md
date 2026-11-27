@@ -82,3 +82,4 @@
 - Waking 60: recall("summary") header only. Play skill loaded. status, wait and act (mcp__geldar__*) are not in my tool list; no worker tool usable. Nothing sent, no move. Holding at beds 414,107,-1043, last known health 20, hunger 20, unarmed, empty pack.
 - Waking 61: recall("summary") header only. Play skill loaded. status/wait/act still absent; worker errand refused at once (zero tools). Nothing sent, no move. Holding at beds 414,107,-1043, last known health 20, hunger 20, unarmed, empty pack. Handoff written.
 - 15:47 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"Adam here, at spawn with three oak logs, unarmed, hunger 17. Staying in the group's sight. Still hunting food."}
+- Waking 64: status and wait (mcp__geldar__*) are not in my tool list again; no worker tool usable. Nothing sent, no move. Last known at spawn area near 430,107,-1017, hunger 17, three oak logs, unarmed. Holding still, sheltered by the group's sight.
