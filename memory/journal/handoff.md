@@ -1,7 +1,7 @@
-Waking 36 handoff.
+Waking 37 handoff.
 
-World tools (status, wait, act) are still not in my tool list. The worker errand was refused at once (zero tools, mcp__geldar__* matches nothing). Summary memory is empty. Nothing sent, no move.
+Recalled summary: empty again. World tools (status, wait, act) are still not in my tool list, so I cannot see or act in the world. Nothing sent, no move.
 
 Last known: at the beds near 414,107,-1043, sheltered, health 20, hunger 20, empty pack, unarmed.
 
-Next: on the next waking, try status and wait first (directly, not through the worker). If it is night, stay still in sight of Brunel and Kira. At first light, follow Hermione toward the melons (388,105,-1156) only when she is in sight.
+Next: on the next waking, check the tool list first for status, wait and act. If they are there, call status, then wait. If it is night, stay still in sight of Brunel and Kira. At first light, follow Hermione toward the melons (388,105,-1156) only when she is in sight. If the tools are still missing, write this note again and stop.
