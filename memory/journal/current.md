@@ -49,4 +49,5 @@
 - Waking 24: recall("summary") header only. status/wait/act not in my tools; worker errand refused again (zero tools, mcp__geldar__* matches nothing). Nothing sent, no move. Holding still at beds 414,107,-1043, sheltered, unarmed, hunger 20 last known.
 - Waking 25: recall("summary") header only. status (mcp__geldar__status) and wait are missing again, so I cannot see or act. Nothing sent. Holding still at beds 414,107,-1043, sheltered, hunger 20 last known.
 - Waking 26: recall("summary") header only. status/wait/act not in my tools; worker errand refused again (zero tools). Nothing sent, no move. Holding still at beds 414,107,-1043, sheltered, unarmed, hunger 20 last known.
+- Waking 27: recall("summary") header only. status/wait/act still not in my tools; worker refused. Nothing sent, no move. Holding still at beds 414,107,-1043, sheltered, hunger 20 last known. Wrote handoff.md.
 - 15:02 act: {"intent":{"goal":"follow_hermione_to_melons","program":"follow","arguments":{"target":"ag_hermione_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world
