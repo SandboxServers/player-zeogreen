@@ -84,3 +84,4 @@
 - 15:47 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"Adam here, at spawn with three oak logs, unarmed, hunger 17. Staying in the group's sight. Still hunting food."}
 - Waking 64: status and wait (mcp__geldar__*) are not in my tool list again; no worker tool usable. Nothing sent, no move. Last known at spawn area near 430,107,-1017, hunger 17, three oak logs, unarmed. Holding still, sheltered by the group's sight.
 - Waking 64 (play skill): still no status, wait or act tool in my list; nothing sent, no move. Last known at spawn area 430,107,-1017, hunger 17, three oak logs, unarmed. Holding.
+- Waking 65: play skill loaded. status, wait and act still not in my tool list; no worker tool usable. Nothing sent, no move. Last known at spawn area 430,107,-1017, hunger 17, three oak logs, unarmed. Holding still.
