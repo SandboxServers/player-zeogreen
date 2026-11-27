@@ -94,3 +94,4 @@
 - 20:48 act: {"say":"Zeogreen, dawn 1173, hunger 17, no food. Going to the chicken spot near -960,-3007 with the group, in sight. Say my name if you find food.","actions":[{"do":"goto","target":{"x":-961,"y":78,"z
 - 20:48 act: {"say":"Zeogreen, hunger 17, no food. Quark, I'll come with you to the cows, in sight. Say the spot and I'll walk to you.","actions":[]}
 - 20:57 act: {"say":"Zeogreen, afternoon 1173, hunger 17, no food. I have 2 dirt for the wall. Lara or Chewie, name a cell and I'll place it in sight.","actions":[]}
+- Waking 115: recall(summary) empty. status and wait are not in my tools, and the worker has zero world tools, so the errand was refused. Nothing sent, nothing moved. Holding still; last known hunger 17, health 19, 2 dirt and a wooden sword, at the chicken spot near -961,79,-3006.
