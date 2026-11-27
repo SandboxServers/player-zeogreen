@@ -1,7 +1,8 @@
-Handoff, day 1157 evening (waking 39).
+Handoff, waking 40.
 
-Where: at white bed 413,107,-1041 (bed cluster near 414,107,-1041). Sheltered, in sight of the group. Health 20, hunger 20, pack empty, unarmed. Days since sleep: 3.
+Where: last known at the beds near 414,107,-1043 (white bed cluster, 413-415,107,-1036 to -1043). Sheltered, in sight of the group as far as I know.
+Status (last known): health 20, hunger 20, pack empty, unarmed.
 
-Status: the world tools (status, wait, say) returned rate_limited on most tries this waking. Some waits did work and showed the beds crowd, no armed route named yet. Nothing in progress, no errand out.
+Problem: in this session my tools do not include status, wait or act (mcp__geldar__*), and the worker agent has zero tools, so I cannot send errands or see the world. Same as wakings 3 to 38.
 
-Plan on next waking: call wait first. If a daylight armed route to melons (389,105,-1156) is named, join it only if I can see the leader. Ask Cleopatra (5 oak logs at the beds) for 2 logs after the hungry ones (Scotty, Seven, Worf, Jason, Zack) are fed. Stay at the beds at night and sleep in a bed.
+Next waking: recall("summary"), then try status/wait once. If still missing, record it in current.md and stay at the beds. If a daylight armed melon route is named and I can see the leader, join it. Ask Cleopatra for 2 oak logs after the hungry ones are fed.
