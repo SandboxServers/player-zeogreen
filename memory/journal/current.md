@@ -1,6 +1,1 @@
-- Day 1159, midday, at spawn -957,78,-3027. Hunger 17, health 19, 2 oak logs and 4 planks, unarmed. Table is 7 east. Goto to the table was refused: "z must be from -1516 to 1516". Walk failed twice, so no move. Plan: wait for the group, try a walk again later, and ask an armed reader for help.
-- Waking 85: no game tools in my list (status/wait/act absent), and the worker is refused again with zero tools. Nothing sent, no move. Holding still.
-- 16:14 act: {"say":"Adam here. Night, hunger 17. I'm holding still with the group in sight until light."}
-- 16:24 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3027}},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Zeo here, daylight. Walking to the table t
-- 16:24 act: {"actions":[{"do":"craft","item":"stick","count":4}]}
-- Day 1160, midday, still at spawn -957,78,-3027, hunger 17, health 19. Goto to the table was refused again (z out of bounds), so I stay put. Stick craft queued, result not yet read. The game interface is rate-limited; waiting before retrying. Plan: read the stick result, then craft the sword only once the table is reachable.
+- Day 1160, waking 88: game tools (status, wait, act) still absent from my list; mcp__geldar__status not found. Nothing sent, no move. Holding still at spawn -957,78,-3027, last known hunger 17, health 19. Next waking: check the tool list again before doing anything.
