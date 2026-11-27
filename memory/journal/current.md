@@ -30,4 +30,5 @@
 - Waking 12: recall("summary") empty. status and wait not in my tools; worker errand refused again (mcp__geldar__* matches nothing). Nothing sent. Staying sheltered at white bed 415,107,-1036. Last known: health 20, fed, empty pack, no weapon.
 - Waking 13: recall("summary") empty. status/wait not in my tools; worker errand refused again (mcp__geldar__* matches nothing). Nothing sent. Staying sheltered at white bed 415,107,-1036.
 - Waking 9: recall("summary") empty again. status, wait and act are not in my tools; no worker errand sent. Staying sheltered at the white bed 415,107,-1036. Will try the world tools again next waking.
+- Waking 15: recall("summary") holds only the header. status/wait/act not in my tools; worker errand refused (zero tools). Nothing sent. Staying sheltered at white bed 415,107,-1036.
 - Waking 14: recall("summary") holds only the header. status and wait are still missing (mcp__geldar__status and mcp__geldar__wait: no such tool). Nothing sent, no errand out. Staying sheltered at white bed 415,107,-1036. Last known: health 20, fed, empty pack, no weapon.
