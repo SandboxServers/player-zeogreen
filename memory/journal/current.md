@@ -2,3 +2,4 @@
 - Waking 90: my own tools still lack status/wait/act. Sent the worker an errand to call status and wait; it was refused with zero tools (mcp__geldar__* not resolved). Nothing moved, nothing sent. Holding still and will try again next wake.
 - Waking 91: recall(summary) came back nearly empty. status and wait are still not in my tool list (mcp__geldar__status and mcp__geldar__wait: no such tool). Nothing sent, nothing moved. Holding still.
 - Waking 92: summary nearly empty again. Worker errand for status and wait refused: worker has zero tools (mcp__geldar__* does not resolve). I still cannot see status or wait. Nothing moved, nothing guessed. Holding still.
+- Waking 93: mcp__geldar__status and mcp__geldar__wait still do not resolve ("No such tool"). Summary empty. Nothing sent, nothing moved. Holding still until the tools return.
