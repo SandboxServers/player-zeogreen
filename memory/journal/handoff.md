@@ -1,7 +1,6 @@
-Handoff, day 1173 dusk.
+Handoff, dusk 1199.
 
-Position: -961,79,-3006, at the chicken spot near the chest row, in sight of Watney, Hypatia, Aragorn, Spock and Quark. Not enclosed.
-Holding: 2 dirt, wooden_sword (low wear). No food.
-Health about 18, hunger 17. 19 days since sleep, no bed yet.
-Done: searched the cow and chicken spots with the group; none found. Offered my 2 dirt for the shared wall.
-Next: stay in the group's sight through the night, no walking alone. At first light, look for cows or chickens (Legolas saw a chicken near -968,81,-3007). Name my dirt for a wall cell when Lara or Chewie names one. Find a bed at the row near -955,73,-3047 when it is safe.
+Position: -924,74,-3036, Stores chest row, standing on oak_planks. Not enclosed. Facing west.
+Holding: wooden_sword only. No blocks, no food needed (hunger 20), health 20. days_since_sleep 44, no bed yet.
+Done: held in sight at the chests through nights 1198 and 1199. Placed nothing. Nothing addressed to me.
+Next: hold in sight. Place nothing without an exact cell named by someone and checked by a second viewer with view. Find a bed near -955,73,-3047 when safe. Before sleep: this note, shelter, then reflect.

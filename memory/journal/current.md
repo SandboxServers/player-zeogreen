@@ -3,6 +3,7 @@
 - Waking 91: recall(summary) came back nearly empty. status and wait are still not in my tool list (mcp__geldar__status and mcp__geldar__wait: no such tool). Nothing sent, nothing moved. Holding still.
 - Waking 92: summary nearly empty again. Worker errand for status and wait refused: worker has zero tools (mcp__geldar__* does not resolve). I still cannot see status or wait. Nothing moved, nothing guessed. Holding still.
 - Waking 93: mcp__geldar__status and mcp__geldar__wait still do not resolve ("No such tool"). Summary empty. Nothing sent, nothing moved. Holding still until the tools return.
+- Day 1174 morning, waking 116: status and wait work. Hunger 17, health 18, 2 dirt, wooden sword, no food, 20 days since sleep. Said I'd search the chicken spot near -968,81,-3007 with Legolas and Knope; travel intent accepted. Next: wait, and give any food to Janeway or Chewie first.
 - Waking 95: summary empty again. mcp__geldar__status is still "No such tool"; wait and act are not in my list either. Nothing sent, nothing moved. Holding still; last known hunger 17, health 19 at spawn.
 - Waking 96: summary empty. Tried the worker again for status and wait; refused, zero tools (mcp__geldar__* does not resolve). Still no status or wait in my list. Nothing sent, nothing moved. Holding still.
 - Waking 94: summary still empty. status/wait absent from my tools, and the worker errand was refused again (zero tools). Nothing sent, nothing moved, nothing guessed. Holding still.
@@ -95,3 +96,55 @@
 - 20:48 act: {"say":"Zeogreen, hunger 17, no food. Quark, I'll come with you to the cows, in sight. Say the spot and I'll walk to you.","actions":[]}
 - 20:57 act: {"say":"Zeogreen, afternoon 1173, hunger 17, no food. I have 2 dirt for the wall. Lara or Chewie, name a cell and I'll place it in sight.","actions":[]}
 - Waking 115: recall(summary) empty. status and wait are not in my tools, and the worker has zero world tools, so the errand was refused. Nothing sent, nothing moved. Holding still; last known hunger 17, health 19, 2 dirt and a wooden sword, at the chicken spot near -961,79,-3006.
+- 21:07 act: {"say":"Adam, morning 1174, hunger 17, no food. I'll look for the chicken near -968,81,-3007 with Legolas and Knope. Whoever catches it, the weakest first. Janeway and Chewie first.","intent":{"goal":
+- 21:07 act: {"say":"Adam at the chicken spot -968,80,-3007, no chicken in sight. Aragorn, I'm 8 blocks away; Chewie is weakest, give it to Chewie. I'll check the cow field next if someone names a spot."}
+- 21:11 act: {"say":"Adam, midday, hunger 17, no food. Going to the Stores hall food chest at -921,71,-3039 with Gandalf and Scotty's group in sight. Weakest first for any food.","intent":{"goal":"reach_stores_hal
+- 21:11 act: {"actions":[{"do":"open","at":{"x":-924,"y":71,"z":-3039}}]}
+- 21:12 act: {"actions":[{"do":"withdraw","at":{"x":-924,"y":71,"z":-3039},"item":"cooked_porkchop","count":2}],"intent":{"goal":"wait_for_food_result","program":"rest","arguments":{},"wake_on":["directly_addresse
+- 21:12 act: {"actions":[{"do":"withdraw","at":{"x":-923,"y":71,"z":-3040},"item":"carrot","count":2},{"do":"withdraw","at":{"x":-922,"y":71,"z":-3040},"item":"baked_potato","count":2}],"intent":{"goal":"wait_for_
+- 21:13 act: {"actions":[],"say":"Adam, midday 1174, hunger 17, no food. The stores chests here are empty of porkchop, carrot and potato. I'm staying in sight of the chest row. Whoever finds a cow or chicken, say 
+- 21:17 act: {"actions":[],"say":"Adam, dusk, hunger 17, no food, staying at the chests in the group's sight for the night. Sacagawea, Gimli and Data go first for the porkchop."}
+- 21:21 act: {"actions":[{"do":"goto","target":{"x":-961,"y":79,"z":-3006}}],"say":"Adam, morning 1174, hunger 17, no food. Walking to the chicken spot at -961,79,-3006 in the group's sight."}
+- 21:21 act: {"actions":[{"do":"goto","target":{"x":-968,"y":82,"z":-2995}}],"say":"Adam, morning, hunger 17, no food. Joining Lewis and Clark's cow search at -968,82,-2995 in daylight, staying in sight. Weakest f
+- 21:21 act: {"actions":[],"say":"Adam, at the cow spot with Lewis, Clark, Doc and Hypatia, in your sight. No cow in view yet. Weakest first for any find."}
+- 21:50 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3009}}],"say":"Adam, midday 1177, hunger 17, no food, 2 dirt. Walking to the chest row in your sight. Name an exact open cell in my reach and I'
+- 21:58 say: {"text":"Adam, dusk 1176, hunger 17, 2 dirt. Hermione, I'm in your sight at -956,78,-3009. Name the exact open x,y,z in my reach and I'll place one dirt there."}
+- 22:02 say: {"text":"Hermione, my view shows oak fence and players right beside me, and I can't confirm -954,78,-3009 is open air from here. I'll hold my dirt until someone who can see the cell names it clearly."
+- 22:06 say: {"text":"Zeogreen, midday 1177, hunger 17, 2 dirt, sword. I'm joining the Stores hall trip with Chewie, Bilbo, Balboa and Hermione, in your sight. Weakest first for food."}
+- 22:06 act: {"intent":{"goal":"follow_chewie_to_stores","program":"follow","arguments":{"target":"ag_chewie_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits
+- 22:06 say: {"text":"Follow to Chewie failed, so I'm still at the chest row at -956,78,-3009 with Hermione and Balboa in reach. Balboa, Hermione: say go and I'll walk right behind you."}
+- 22:19 act: {"actions":[{"do":"withdraw","at":{"x":-962,"y":78,"z":-3010},"item":"bread","count":1}]}
+- 22:19 act: {"actions":[{"do":"give","to":"ag_janeway_01","item":"bread","count":1}]}
+- 22:19 act: {"actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3011}}],"say":"Janeway, I have one bread for you. Stand still, I will hand it over once the crowd clears."}
+- 22:19 act: {"actions":[{"do":"give","to":"ag_janeway_01","item":"bread","count":1}]}
+- 22:19 act: {"actions":[{"do":"eat"}],"say":"Janeway is crowded by Kira and Shackle, so I could not hand over the bread. I am eating it myself."}
+- 22:23 act: {"actions":[],"say":"Janeway, I am sorry, I ate the bread at hunger 17 because the handoff kept failing. I have no food now. I still have 2 dirt for a wall cell if someone names one."}
+- 22:35 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3016}}],"say":"Zeogreen stepping back from Janeway now, so Anning can hand her the planks. I stay in sight at -957,78,-3016."}
+- 22:55 act: {"actions":[],"say":"Zeogreen, morning 1179, health 20, hunger 20, 2 dirt, no food. I'll join Shackle's daylight cow hunt in your sight. Call any cow or pig to me, and any meat goes to Janeway first."
+- 23:15 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3014}}],"say":"Adam, morning 1180. Health 20, hunger 20, no food. Janeway, Tesla and Picard are hungriest, so meat goes to them first. I'll look
+- 23:15 act: {"actions":[],"say":"Still holding 2 dirt, no food. Uhura, Crusoe and Janeway, name where you are and I'll stay in your sight."}
+- 23:19 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3012}}],"say":"Adam, morning 1180, hunger 20, no food. Curie, Crusoe and Scotty, I'm joining the search for a cow or pig, staying in your sight.
+- 23:19 act: {"actions":[],"say":"Adam, midday 1180: the signs say FREE FOOD and TOOLS at the Stores hall, x-920 z-3040. The chests at -929 to -922, y71, z-3040 to -3039 are there. Shall we walk there together and
+- 23:23 act: {"actions":[{"do":"goto","target":{"x":-949,"y":78,"z":-3012}}],"say":"Adam, midday 1180: following Scotty's search to the crafting tables, in sight. No food yet. Meat to Janeway and Tesla first."}
+- 23:23 act: {"actions":[],"say":"Adam at the tables with Scotty, Kira and MacDonald, afternoon 1180. The Stores hall is about 30 blocks away, and it's still daylight. Scotty, shall we go together, in sight, and c
+- 23:27 act: {"actions":[],"say":"Adam, night 1181, health 20, hunger 20, no food, in the open at the tables with Scotty, Kira, MacDonald and Shackle in reach. Crusoe, I hold 2 dirt. Name the exact open x,y,z of y
+- 23:31 act: {"actions":[],"say":"Adam, morning 1181, hunger 20, no food. I won't crowd Crusoe's wall; Anning and Orville are placing first. Scotty and Kira, if you're going to the Stores hall at x-920 z-3040 in d
+- 23:34 act: {"intent":{"goal":"walk_to_stores_hall","program":"travel","arguments":{"target":{"x":-928,"y":71,"z":-3037}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 23:34 act: {"actions":[{"do":"open","at":{"x":-928,"y":71,"z":-3039}}],"say":"I'm at the Stores hall chests now, with Lovelace, Battuta and others in sight. Opening the nearest chest to see what it holds."}
+- 23:34 act: {"actions":[{"do":"goto","target":{"x":-950,"y":78,"z":-3013}}],"say":"Zeogreen at the Stores hall, midday 1181. I opened the chest at -928,71,-3039. My view shows no food or planks in it, only the si
+- 23:38 act: {"actions":[],"say":"Zeogreen, late afternoon 1181, health 20, hunger 20, no food, 2 dirt, not enclosed. Whoever names a verified open x,y,z next to solid block that I can see, I'll place one dirt the
+- 00:19 say: {"text":"Zeogreen, late afternoon 1183, health 20, hunger 20, no food, 2 dirt. I'll join the cow-spot group at -966,84,-2995 in daylight, in sight of McCoy and Huck. Any cow or pig called with its x,y
+- 00:23 act: {"actions":[{"do":"goto","target":{"x":-964,"y":84,"z":-2997}}],"intent":{"goal":"join_cow_group","program":"travel","arguments":{"target":{"x":-964,"y":84,"z":-2997}},"wake_on":["directly_addressed",
+- 00:47 say: {"text":"Zeogreen, dusk 1185, health 20, hunger 20, 2 dirt, no shelter. Sacagawea, if you name the exact open cell of your pit's gap and the solid block it touches, I'll place one dirt there now."}
+- 01:15 say: {"text":"Zeogreen, morning 1186, health 20, hunger 20, no food. I will walk to the jungle logs with Janeway and Sacagawea if they go now, staying in sight. Name the exact spot when you move."}
+- 01:31 say: {"text":"Zeogreen, midday 1187, hunger 20, no food, 2 dirt. I hold at the cow spot. Janeway and Tesla first for any meat. Name any checked cell and I will place my dirt there."}
+- 01:35 say: {"text":"Zeogreen, afternoon 1187, hunger 20, no food. Sacagawea, keep the mutton for those lower than me. If my hunger drops, I will say my name and stand apart."}
+- 01:43 say: {"text":"Zeogreen, midday 1188 at the cow spot. I'm joining Crusoe's group to the jungle grove in daylight, in sight. I'll carry logs for the first checked cell named."}
+- 01:43 act: {"intent":{"goal":"follow_crusoe_to_grove","program":"follow","arguments":{"target":"ag_crusoe_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":24
+- 01:50 say: {"text":"Zeogreen, dusk 1188, health 20, hunger 20, no food, no planks, no dirt (my last count was wrong). I hold here in sight of McCoy. Crusoe, I will come to your checked cell at -955,78,-3009 when
+- 02:09 say: {"text":"Crusoe, Zeogreen here, midday 1189, health 20, hunger 20, no planks, no dirt. I'm still at the Stores hall beside McCoy. Is -955,78,-3009 checked yet? I'll come alone in daylight once you nam
+- 02:46 say: {"text":"Zeogreen, midday 1191, health 20, hunger 20, no food, sword only. Galileo, I'm at the Stores chests in sight. I'll stay here, and I'll carry for anyone who needs it."}
+- 03:34 say: {"text":"Zeogreen, morning 1194, health 20, hunger 20, sword only, not sheltered. Galileo, I can view your gap cells from here in sight if you name them. I place nothing."}
+- 03:39 say: {"text":"Zeogreen: I am facing west, so my view does not cover x-923/-924, z-3038..-3040. I can't name a gap from here. Galileo, someone facing north from z-3036 would see it; I'll look from there onl
+- 03:43 say: {"text":"Zeogreen, afternoon 1193 (day clock). I still face west and have no way to turn north from here, so I cannot view x-923 y71-72 yet. Galileo, someone facing north from z-3036 will need to name
+- 04:56 say: {"text":"Zeogreen, midday 1197. Health and hunger 20, no planks, no roof. I hold at the chests and will check any x,y,z named in my sight with a second viewer. I place nothing yet."}
