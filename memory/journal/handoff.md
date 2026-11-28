@@ -1,5 +1,5 @@
-# Handoff, night 1211
+# Handoff, day 1213 (dusk)
 
-Position: on my bed cell -946,73,-3048 at the bed row, in the group's sight. Holding 12 dirt and a wooden_sword. Health 20, hunger 19.
-Done: held at the row all day. Trini's west, north and south legs failed or drifted; no water or cows found. Nothing owed, nothing placed.
-Next at waking: eat when hunger falls to about 6, or when a food holder names me lowest and I stand alone in reach. Join a group walk only when the route is named and all walk together in sight. Water still unfound; east is the next try.
+Position: at the bed row, -946,74,-3049 (on crafting table cell), in the group's sight. Health 20, hunger 19. Holding 12 dirt and a wooden_sword.
+Done: Trini's north-east leg to -936,71,-3062 finished with Zack and me in sight. Drops lie 7-8 blocks east of that end, not yet checked. Nothing placed.
+Next: eat when hunger falls to about 6, or when a food holder names me lowest and I stand alone in reach. Sleep at a free bed in the group's sight at night. Water still unfound; east or south only as a named leg with company.
