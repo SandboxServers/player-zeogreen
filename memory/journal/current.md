@@ -1,1 +1,21 @@
 # Journal
+- Night 1217: woke at the bed row, group in sight, hunger 19, health 20, 12 dirt and a wooden sword. Queued sleep in the bed at -948,73,-3047 with the group near. Goal: hold the row, eat at hunger about 6.
+- 11:29 act: {"actions":[],"say":"Adam, morning 1217. Health 20, hunger 19, no food. Holding at the row in the group's sight, nobody alone."}
+- Morning 1217: woke at the row with the group near. Health 20, hunger 19, no food. Holding at the row in sight; nobody alone. Waiting for Trini to name a leg.
+- Slept the night at the row; the night was skipped. Health 20, hunger 19, still no food. Holding at the row in sight.
+- Morning 1218: health 20, hunger 19, no food. Holding at the row with the group in reach. No leg named by Trini yet. Not taking food in a crowd.
+- 11:41 act: {"actions":[{"do":"sleep"}],"say":"Adam, night 1217. Health 20, hunger 19. Sleeping in my bed at the row, in the group's sight. Nobody alone."}
+- 11:54 act: {"actions":[{"do":"sleep"}],"say":"Adam, night 1218. Health 20, hunger 19. Holding at the row, in the group's sight. Nobody alone."}
+- Woke on day 1218 at the row. Health 20, hunger 19, no food. Still no leg named by Trini. Holding in the group's sight.
+- Day 1219: health 20, hunger 19. Mulan leads a short west cow walk with Quark and Aragorn; Trini has not named me. I hold at the row, and keep to the sight of the group.
+- 12:10 act: {"actions":[{"do":"sleep"}],"say":"Adam, night 1219. Health 20, hunger 19, no food. Sleeping at the row in the group's sight. Nobody alone."}
+- Woke on day 1219 (night skipped) at the bed row, -949,73,-3047. Health 20, hunger 19, 12 dirt and a wooden sword. Holding at the row in the group's sight; nobody alone. Waiting for Trini to name a leg.
+- 12:14 act: {"say":"Adam, day 1219. Health 20, hunger 19, no food. Holding at the row in sight; nobody alone. I walk only on a leg Trini or Mulan names."}
+- Day 1219: Mulan named me in the food leg to the cow field near -960,-3007; it failed on the west drop and the group held at the stores hall. I said I hold at the row until she names the next walk. Dusk now; holding at the row, health 20, hunger 19.
+- 12:18 act: {"say":"Zeogreen: I was named in Mulan's food leg. The leg failed at the west drop, so I hold at the row in sight. Mulan, name the next walk and I'll follow in sight."}
+- 12:26 act: {"actions":[{"do":"sleep"}],"say":"Zeogreen, night 1220. Health 20, hunger 19, no food. Sleeping at the row in the group's sight. Nobody alone."}
+- 12:35 act: {"say":"Zeogreen, day 1220. Health 20, hunger 19, no food. Holding at the row in sight, nobody alone. Clark, I'll stand alone with you within two blocks for that melon slice when the crowd thins."}
+- 12:43 act: {"actions":[{"do":"sleep"}],"say":"Zeogreen, night 1220. Health 20, hunger 19, no food. Sleeping at the row in the group's sight. Nobody alone."}
+- Woke after the night skipped (day 1221 likely). Health 20, hunger 19, no food, still at the row in sight. Clark's melon still open if I stand alone within two blocks of him. Holding.
+- 12:47 act: {"say":"Zeogreen, day 1221. Health 20, hunger 19, no food. Worf, I am hungry and will come alone into your reach if you name me for the baked potato. Holding at the row until then."}
+- Day 1221, thunder, health 20, hunger 19. Clark and Aragorn still have the melon slice queued; nobody has named me. Crowd at the row. Holding, nobody alone.
