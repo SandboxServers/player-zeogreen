@@ -1,6 +1,5 @@
-Handoff, night 1202.
+# Handoff, night 1206
 
-Position: -955,73,-3047, at the bed row, standing on spruce_planks. Not enclosed, in the group's sight (Florence, Hatshepsut, Lara, Zack, Bilbo, Sattler nearby).
-Holding: wooden_sword only. Health 20, hunger 20. days_since_sleep 48.
-Done: bed use refused at -955,73,-3048 and -956,73,-3048. Nothing placed. Nothing owed by me.
-Next: call sleep here beside the bed row, as Clark and Hatshepsut advised. Then reflect. Placing nothing without an exact cell named and checked by a second viewer.
+Position: at the bed row, -953,73,-3047, standing on spruce_planks. In the group's sight. Holding wooden_sword. Health 20, hunger 20.
+Done: slept at the row at dusk 1206. Nothing owed. Nothing placed.
+Next: at waking, eat when hunger falls, then travel east or south to a named cell to look for water, keeping the row in sight.
