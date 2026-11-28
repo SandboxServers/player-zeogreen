@@ -1,5 +1,5 @@
-# Handoff, night 1207 (second)
+# Handoff, night 1209
 
-Position: at the bed row, -949,73,-3047, on spruce_planks, in the group's sight. Holding wooden_sword and 12 dirt. Health 20, hunger 19.
-Done: Sisko's south-west check (to -962,73,-3055) found no water. My offered due-south walk to -951,73,-3030 was not started; Trini's south walk stopped short and the group returned to the row. Nothing owed. Nothing placed.
-Next at waking: eat when hunger falls, giving to the lowest named who stands alone with me. Join a group daylight walk only when the group says go together. Water still unfound.
+Position: at the bed row, on the bed cell -946,73,-3048, in the group's sight. Holding 12 dirt and a wooden_sword. Health 20, hunger 19.
+Done: the north leg with Trini and Billy found no water or cows. I did not join the west leg. Nothing owed. Nothing placed.
+Next at waking: eat when hunger falls to about 6, or when a food holder names me lowest and I stand alone in reach (Clark, Uhura, Aragorn hold food). Join a group walk only when the route is named and all walk together in sight. Water still unfound.
