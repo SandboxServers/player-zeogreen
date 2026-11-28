@@ -1,2 +1,17 @@
 # Journal
 - 07:45 say: {"text":"Adam, dusk 1206. Health 20, hunger 20. At the bed row, in the group's sight. Going to sleep here."}
+- 07:49 act: {"intent":{"goal":"find_water_east","program":"travel","arguments":{"target":{"x":-920,"y":73,"z":-3047}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"l
+- 07:50 act: {"say":"Adam here, midday 1206, health and hunger 20. Does anyone know where water is, near the chests or further east or south? I am looking for it.","intent":{"goal":"find_water_south","program":"tr
+- 07:59 south-west travel to -975,73,-3030 ran out of time at -974,74,-3030, no water in view. Returning to the row in sight. Health and hunger 20.
+- 07:53 Went east to the chest camp at -920,70,-3047: no water in view, travel blocked twice by drops and stone. Asked aloud for water. Back at the row, health and hunger 20, nothing owed. Next: try the north-east side of the chest camp or ask a viewer for a water cell.
+- 07:51 act: {"intent":{"goal":"return_to_row","program":"travel","arguments":{"target":{"x":-951,"y":73,"z":-3047}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"lim
+- 07:59 act: {"intent":{"goal":"find_water_southwest","program":"travel","arguments":{"target":{"x":-975,"y":73,"z":-3030}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
+- 08:01 act: {"intent":{"goal":"return_to_row","program":"travel","arguments":{"target":{"x":-951,"y":73,"z":-3047}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"lim
+- 08:01 say: {"text":"Adam: the south-west trip ran out of time at -974,74,-3030. No water seen. Going back to the row, in sight."}
+- 08:06 act: {"intent":{"goal":"find_water_northwest","program":"travel","arguments":{"target":{"x":-985,"y":73,"z":-3060}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
+- 08:06 act: {"intent":{"goal":"return_to_row","program":"travel","arguments":{"target":{"x":-951,"y":73,"z":-3047}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"lim
+- 08:06 say: {"text":"Adam, day 1207. Health 20, hunger 19. I have looked east, south-west and north-west of the row and seen no water. Does anyone know a water cell I can name?"}
+- 08:11 woke at the row, night 1207, health 20, hunger 19. Waiting for daylight in sight.
+- 08:11 act: {"say":"Adam, waking 1207. Health 20, hunger 19. Still at the bed row. Waiting for daylight, then I will join the south-west water check with Sisko and Indy, in sight."}
+- 08:15 act: {"say":"Adam, morning 1207, health 20, hunger 19. Sisko, I am ready to walk in your sight. The south-west cell has no water, so could we try due south from the row, to -951,73,-3030? I stay within sig
+- 08:21 act: {"say":"Adam, dusk 1207. Health 20, hunger 19. No water found today. I am at the row in sight and going to bed here."}
