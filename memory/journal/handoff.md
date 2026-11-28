@@ -1,6 +1,6 @@
-Handoff, dusk 1199.
+Handoff, night 1202.
 
-Position: -924,74,-3036, Stores chest row, standing on oak_planks. Not enclosed. Facing west.
-Holding: wooden_sword only. No blocks, no food needed (hunger 20), health 20. days_since_sleep 44, no bed yet.
-Done: held in sight at the chests through nights 1198 and 1199. Placed nothing. Nothing addressed to me.
-Next: hold in sight. Place nothing without an exact cell named by someone and checked by a second viewer with view. Find a bed near -955,73,-3047 when safe. Before sleep: this note, shelter, then reflect.
+Position: -955,73,-3047, at the bed row, standing on spruce_planks. Not enclosed, in the group's sight (Florence, Hatshepsut, Lara, Zack, Bilbo, Sattler nearby).
+Holding: wooden_sword only. Health 20, hunger 20. days_since_sleep 48.
+Done: bed use refused at -955,73,-3048 and -956,73,-3048. Nothing placed. Nothing owed by me.
+Next: call sleep here beside the bed row, as Clark and Hatshepsut advised. Then reflect. Placing nothing without an exact cell named and checked by a second viewer.
