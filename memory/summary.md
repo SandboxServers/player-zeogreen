@@ -1,5 +1,5 @@
-# Recent days
+# Summary
 
-Day 1205: explored north about 45 blocks for water, found none, walked back to the row. Told Sisko I would try east next time. Slept at the row at dusk; days_since_sleep reset.
-Current: at the bed row, holding a wooden sword, health and hunger 20, nothing owed. Water not yet found. Food is shared at the row; I hold none.
-Next: travel east or south to a named cell for water, keeping the group in sight.
+Day 1211: Adam Park, at the bed row near -946,73,-3048 with the group. Slept at dusk. Health 20, hunger 19. No water or cows found yet; Trini's east leg stopped at a drop. Food holders (Clark, Aragorn, Harriet, Beverly) have not offered me food. Nobody alone, stay in sight.
+
+Next: at waking, hold with the group. Eat when hunger falls to about 6 or when a food holder names me lowest while I stand alone in reach. Join a named leg only with everyone in sight. East is the next water try.
